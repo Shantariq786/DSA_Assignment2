@@ -1,0 +1,152 @@
+{
+  "summary": {
+    "inputRecords": 570,
+    "retainedPublications": 554,
+    "excludedRecords": 16,
+    "authorCount": 1535,
+    "linkCount": 3025,
+    "topCountries": [
+      "United States",
+      "Germany",
+      "China",
+      "United Kingdom",
+      "South Korea",
+      "Japan",
+      "Brazil",
+      "Canada",
+      "Russian Federation",
+      "Spain"
+    ],
+    "countryCounts": {
+      "United States": 427,
+      "Germany": 137,
+      "China": 98,
+      "United Kingdom": 78,
+      "South Korea": 62,
+      "Japan": 57,
+      "Brazil": 56,
+      "Canada": 54,
+      "Russian Federation": 53,
+      "Spain": 40,
+      "France": 39,
+      "Australia": 35,
+      "Italy": 28,
+      "Austria": 26,
+      "Taiwan": 25,
+      "Poland": 25,
+      "Czech Republic": 23,
+      "Sweden": 22,
+      "Netherlands": 22,
+      "India": 17,
+      "Portugal": 17,
+      "Greece": 15,
+      "Finland": 15,
+      "Switzerland": 13,
+      "Iran": 11,
+      "Norway": 10,
+      "Tunisia": 9,
+      "Romania": 9,
+      "Belgium": 9,
+      "Colombia": 8,
+      "Ireland": 7,
+      "Philippines": 7,
+      "Thailand": 6,
+      "Denmark": 6,
+      "Mexico": 6,
+      "Turkey": 5,
+      "Malaysia": 5,
+      "Lithuania": 5,
+      "Singapore": 3,
+      "Latvia": 3,
+      "Pakistan": 3,
+      "Kazakhstan": 3,
+      "Croatia": 3,
+      "Slovakia": 3,
+      "Saudi Arabia": 3,
+      "Israel": 2,
+      "Trinidad and Tobago": 2,
+      "Bulgaria": 2,
+      "Chile": 2,
+      "New Zealand": 2,
+      "Hong Kong": 2,
+      "Serbia": 2,
+      "Gabon": 1,
+      "Algeria": 1,
+      "Egypt": 1,
+      "Iraq": 1,
+      "Ecuador": 1,
+      "Hungary": 1
+    },
+    "unknownCountryAuthors": 7,
+    "degreeRange": [
+      0,
+      44
+    ]
+  },
+  "excluded": [
+    {
+      "eid": "2-s2.0-27544450057",
+      "reason": "At least one author has no affiliation (name-only entry)"
+    },
+    {
+      "eid": "2-s2.0-27544437912",
+      "reason": "At least one author has no affiliation (name-only entry)"
+    },
+    {
+      "eid": "2-s2.0-27544454309",
+      "reason": "At least one author has no affiliation (name-only entry)"
+    },
+    {
+      "eid": "2-s2.0-9444297929",
+      "reason": "Missing required field(s): Authors, Authors with affiliations"
+    },
+    {
+      "eid": "2-s2.0-9444241467",
+      "reason": "Missing required field(s): Authors, Authors with affiliations"
+    },
+    {
+      "eid": "2-s2.0-0242424259",
+      "reason": "At least one author has no affiliation (name-only entry)"
+    },
+    {
+      "eid": "2-s2.0-0036038950",
+      "reason": "Missing required field(s): Authors, Authors with affiliations"
+    },
+    {
+      "eid": "2-s2.0-0035204684",
+      "reason": "Missing required field(s): Authors, Authors with affiliations"
+    },
+    {
+      "eid": "2-s2.0-0035193888",
+      "reason": "At least one author has no affiliation (name-only entry)"
+    },
+    {
+      "eid": "2-s2.0-0035193821",
+      "reason": "At least one author has no affiliation (name-only entry)"
+    },
+    {
+      "eid": "2-s2.0-0035193714",
+      "reason": "At least one author has no affiliation (name-only entry)"
+    },
+    {
+      "eid": "2-s2.0-0033634532",
+      "reason": "Missing required field(s): Authors, Authors with affiliations"
+    },
+    {
+      "eid": "2-s2.0-0032276841",
+      "reason": "Missing required field(s): Authors, Authors with affiliations"
+    },
+    {
+      "eid": "2-s2.0-0031644427",
+      "reason": "Missing required field(s): Authors, Authors with affiliations"
+    },
+    {
+      "eid": "2-s2.0-0031332867",
+      "reason": "Missing required field(s): Authors, Authors with affiliations"
+    },
+    {
+      "eid": "2-s2.0-0029510652",
+      "reason": "Missing required field(s): Authors, Authors with affiliations"
+    }
+  ]
+}
